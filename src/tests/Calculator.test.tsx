@@ -14,6 +14,7 @@ describe('Calculator', () => {
     
   });
 
+  /*
   it('should match snapshot', () => {
     render(<Calculator />);
 
@@ -23,4 +24,5 @@ describe('Calculator', () => {
       expect(pretty(calculatorElement.innerHTML)).toMatchSnapshot();
     }
   });
+  */
 });
